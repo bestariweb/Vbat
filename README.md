@@ -7,4 +7,6 @@ LUA Script untuk Notifikasi Tegangan batre drone di Remote Drone FPV
 3. Masuk ke menu Screen, set salah satu screen ke SCRIPT. Pilih VBat
 4. done
 
-Youtube tutorial: https://youtu.be/qpmcZYkvCoE
+Youtube tutorial: 
+[![Youtube tutorial](https://img.youtube.com/vi/qpmcZYkvCoE/0.jpg)](https://www.youtube.com/watch?v=qpmcZYkvCoE)
+
